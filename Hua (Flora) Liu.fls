@@ -1,0 +1,435 @@
+PWD d:\資料備份-勿刪\Desktop\latex
+INPUT C:\Users\admin\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
+INPUT d:\資料備份-勿刪\Desktop\latex\Hua (Flora) Liu.tex
+OUTPUT Hua (Flora) Liu.log
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\fontawesome5.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\fontawesome5.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\fontawesome5-utex-helper.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\fontawesome5-utex-helper.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\tufontawesomefree.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\tufontawesomefree.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\tufontawesomefree.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\tufontawesomebrands.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\tufontawesomebrands.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\tufontawesomebrands.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\subfig\subfig.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\subfig\subfig.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\cjk\CJKfntef.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJKfntef.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJK.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJK.cfg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\lastpage\lastpage.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\lastpage\lastpage.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\lastpage\lastpage2e.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\lastpage\lastpage2e.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\lastpage\lastpagemodern.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\lastpage\lastpagemodern.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\zapfding\pzdr.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hxetex.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hxetex.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hxetex.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-dvipdfm.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-dvipdfm.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-dvipdfm.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\paracol\paracol.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\paracol\paracol.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\sourcesanspro.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\sourcesanspro.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\mweights\mweights.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\t1sourcesanspro-tlf.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\t1sourcesanspro-tlf.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\t1sourcesanspro-tlf.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+INPUT .\Hua (Flora) Liu.aux
+INPUT .\Hua (Flora) Liu.aux
+INPUT Hua (Flora) Liu.aux
+OUTPUT Hua (Flora) Liu.aux
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\ts1sourcesanspro-tlf.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\ts1sourcesanspro-tlf.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\ts1sourcesanspro-tlf.fd
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-ts1.tfm
+INPUT .\fig\icon\NTU.png
+INPUT .\fig\icon\NTU.png
+INPUT .\fig\icon\NTU.png
+INPUT .\fig\icon\NCKU.png
+INPUT .\fig\icon\NCKU.png
+INPUT .\fig\icon\NCKU.png
+INPUT .\fig\icon\Delta.jpg
+INPUT .\fig\icon\Delta.jpg
+INPUT .\fig\icon\Delta.jpg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.tfm
+INPUT .\fig\icon\SGS.png
+INPUT .\fig\icon\SGS.png
+INPUT .\fig\icon\SGS.png
+INPUT .\fig\icon\isha.jpg
+INPUT .\fig\icon\isha.jpg
+INPUT .\fig\icon\isha.jpg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+OUTPUT Hua (Flora) Liu.xdv
+INPUT .\fig\Delta Electronics\Delta Flow Chart.png.jpg
+INPUT .\fig\Delta Electronics\Delta Flow Chart.png.jpg
+INPUT .\fig\Delta Electronics\Delta Flow Chart.png.jpg
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT .\fig\Delta Electronics\generate coil.jpg
+INPUT .\fig\Delta Electronics\generate coil.jpg
+INPUT .\fig\Delta Electronics\generate coil.jpg
+INPUT .\fig\Delta Electronics\FEA analysis process.jpg
+INPUT .\fig\Delta Electronics\FEA analysis process.jpg
+INPUT .\fig\Delta Electronics\FEA analysis process.jpg
+INPUT .\fig\Delta Electronics\quick call bottom.jpg
+INPUT .\fig\Delta Electronics\quick call bottom.jpg
+INPUT .\fig\Delta Electronics\quick call bottom.jpg
+INPUT .\fig\Delta Electronics\input parameters.jpg
+INPUT .\fig\Delta Electronics\input parameters.jpg
+INPUT .\fig\Delta Electronics\input parameters.jpg
+INPUT .\fig\SGS Intern\SGS流程圖.jpg
+INPUT .\fig\SGS Intern\SGS流程圖.jpg
+INPUT .\fig\SGS Intern\SGS流程圖.jpg
+INPUT .\fig\SGS Intern\Thermal Test.jpg
+INPUT .\fig\SGS Intern\Thermal Test.jpg
+INPUT .\fig\SGS Intern\Thermal Test.jpg
+INPUT .\fig\SGS Intern\Vibration Test.jpg
+INPUT .\fig\SGS Intern\Vibration Test.jpg
+INPUT .\fig\SGS Intern\Vibration Test.jpg
+INPUT .\fig\SGS Intern\Shock Test.jpg
+INPUT .\fig\SGS Intern\Shock Test.jpg
+INPUT .\fig\SGS Intern\Shock Test.jpg
+INPUT .\fig\SGS Intern\Salt Spray Test.jpg
+INPUT .\fig\SGS Intern\Salt Spray Test.jpg
+INPUT .\fig\SGS Intern\Salt Spray Test.jpg
+INPUT .\fig\SGS Intern\Fan Drawing (Solidworks).png
+INPUT .\fig\SGS Intern\Fan Drawing (Solidworks).png
+INPUT .\fig\SGS Intern\Fan Drawing (Solidworks).png
+INPUT .\fig\SGS Intern\Structure.png
+INPUT .\fig\SGS Intern\Structure.png
+INPUT .\fig\SGS Intern\Structure.png
+INPUT .\fig\SGS Intern\Fan analylsis.png
+INPUT .\fig\SGS Intern\Fan analylsis.png
+INPUT .\fig\SGS Intern\Fan analylsis.png
+INPUT .\fig\SGS Intern\Velictiy field.jpg
+INPUT .\fig\SGS Intern\Velictiy field.jpg
+INPUT .\fig\SGS Intern\Velictiy field.jpg
+INPUT .\fig\SGS Intern\Velocity field2.jpg
+INPUT .\fig\SGS Intern\Velocity field2.jpg
+INPUT .\fig\SGS Intern\Velocity field2.jpg
+INPUT .\fig\SGS Intern\Pressure.png
+INPUT .\fig\SGS Intern\Pressure.png
+INPUT .\fig\SGS Intern\Pressure.png
+INPUT .\fig\SGS Intern\Acoustic.png
+INPUT .\fig\SGS Intern\Acoustic.png
+INPUT .\fig\SGS Intern\Acoustic.png
+INPUT .\fig\SGS Intern\Acoustic2.png
+INPUT .\fig\SGS Intern\Acoustic2.png
+INPUT .\fig\SGS Intern\Acoustic2.png
+INPUT .\fig\SGS Intern\labview.png
+INPUT .\fig\SGS Intern\labview.png
+INPUT .\fig\SGS Intern\labview.png
+INPUT .\fig\SGS Intern\labview2.png
+INPUT .\fig\SGS Intern\labview2.png
+INPUT .\fig\SGS Intern\labview2.png
+INPUT .\fig\Monographic Study\專題流程圖.jpg
+INPUT .\fig\Monographic Study\專題流程圖.jpg
+INPUT .\fig\Monographic Study\專題流程圖.jpg
+INPUT .\fig\Monographic Study\大專生海報.jpg
+INPUT .\fig\Monographic Study\大專生海報.jpg
+INPUT .\fig\Monographic Study\大專生海報.jpg
+INPUT .\fig\Monographic Study\光學檢測平台示意圖.png
+INPUT .\fig\Monographic Study\光學檢測平台示意圖.png
+INPUT .\fig\Monographic Study\光學檢測平台示意圖.png
+INPUT .\fig\Monographic Study\光學檢測平台示實際圖.png
+INPUT .\fig\Monographic Study\光學檢測平台示實際圖.png
+INPUT .\fig\Monographic Study\光學檢測平台示實際圖.png
+INPUT .\fig\Monographic Study\光學檢測平台流程圖.png
+INPUT .\fig\Monographic Study\光學檢測平台流程圖.png
+INPUT .\fig\Monographic Study\光學檢測平台流程圖.png
+INPUT .\fig\Monographic Study\研究方法.png
+INPUT .\fig\Monographic Study\研究方法.png
+INPUT .\fig\Monographic Study\研究方法.png
+INPUT .\fig\Monographic Study\建立平台模型(主動平台).png
+INPUT .\fig\Monographic Study\建立平台模型(主動平台).png
+INPUT .\fig\Monographic Study\建立平台模型(主動平台).png
+INPUT .\fig\Monographic Study\建立平台模型(橡膠軸承).png
+INPUT .\fig\Monographic Study\建立平台模型(橡膠軸承).png
+INPUT .\fig\Monographic Study\建立平台模型(橡膠軸承).png
+INPUT .\fig\Monographic Study\設計控制器.png
+INPUT .\fig\Monographic Study\設計控制器.png
+INPUT .\fig\Monographic Study\設計控制器.png
+INPUT .\fig\Monographic Study\控制器模擬.png
+INPUT .\fig\Monographic Study\控制器模擬.png
+INPUT .\fig\Monographic Study\控制器模擬.png
+INPUT .\fig\Monographic Study\控制實驗結果-1.jpg
+INPUT .\fig\Monographic Study\控制實驗結果-1.jpg
+INPUT .\fig\Monographic Study\控制實驗結果-1.jpg
+INPUT .\fig\Monographic Study\控制實驗結果-2.jpg
+INPUT .\fig\Monographic Study\控制實驗結果-2.jpg
+INPUT .\fig\Monographic Study\控制實驗結果-2.jpg
+INPUT .\fig\Robot Design\機專流程圖.jpg
+INPUT .\fig\Robot Design\機專流程圖.jpg
+INPUT .\fig\Robot Design\機專流程圖.jpg
+INPUT .\fig\Robot Design\機械專題海報.jpg
+INPUT .\fig\Robot Design\機械專題海報.jpg
+INPUT .\fig\Robot Design\機械專題海報.jpg
+INPUT .\fig\Robot Design\機器人設計.png
+INPUT .\fig\Robot Design\機器人設計.png
+INPUT .\fig\Robot Design\機器人設計.png
+INPUT .\fig\Robot Design\夾爪受力分析.png
+INPUT .\fig\Robot Design\夾爪受力分析.png
+INPUT .\fig\Robot Design\夾爪受力分析.png
+INPUT .\fig\Robot Design\夾取物品.png
+INPUT .\fig\Robot Design\夾取物品.png
+INPUT .\fig\Robot Design\夾取物品.png
+INPUT .\fig\Robot Design\物品交接.png
+INPUT .\fig\Robot Design\物品交接.png
+INPUT .\fig\Robot Design\物品交接.png
+INPUT .\fig\Robot Design\運輸.png
+INPUT .\fig\Robot Design\運輸.png
+INPUT .\fig\Robot Design\運輸.png
+INPUT .\fig\Robot Design\循跡.png
+INPUT .\fig\Robot Design\循跡.png
+INPUT .\fig\Robot Design\循跡.png
+INPUT .\fig\Robot Design\走迷宮.png
+INPUT .\fig\Robot Design\走迷宮.png
+INPUT .\fig\Robot Design\走迷宮.png
+INPUT .\fig\Numerical Analysis\Numerical flow chart.jpg
+INPUT .\fig\Numerical Analysis\Numerical flow chart.jpg
+INPUT .\fig\Numerical Analysis\Numerical flow chart.jpg
+INPUT .\fig\Numerical Analysis\五軸加工機.png
+INPUT .\fig\Numerical Analysis\五軸加工機.png
+INPUT .\fig\Numerical Analysis\五軸加工機.png
+INPUT .\fig\Numerical Analysis\狀態監控流程圖.png
+INPUT .\fig\Numerical Analysis\狀態監控流程圖.png
+INPUT .\fig\Numerical Analysis\狀態監控流程圖.png
+INPUT .\fig\Numerical Analysis\濾波前後時域訊號.png
+INPUT .\fig\Numerical Analysis\濾波前後時域訊號.png
+INPUT .\fig\Numerical Analysis\濾波前後時域訊號.png
+INPUT .\fig\Numerical Analysis\原始訊號和濾波訊號.png
+INPUT .\fig\Numerical Analysis\原始訊號和濾波訊號.png
+INPUT .\fig\Numerical Analysis\原始訊號和濾波訊號.png
+INPUT .\fig\Numerical Analysis\1000rpm, 5000rpm, 10000rpm 頻譜圖.png
+INPUT .\fig\Numerical Analysis\1000rpm, 5000rpm, 10000rpm 頻譜圖.png
+INPUT .\fig\Numerical Analysis\1000rpm, 5000rpm, 10000rpm 頻譜圖.png
+INPUT .\fig\Numerical Analysis\以不同數值分析方法求解.png
+INPUT .\fig\Numerical Analysis\以不同數值分析方法求解.png
+INPUT .\fig\Numerical Analysis\以不同數值分析方法求解.png
+INPUT .\fig\Numerical Analysis\Rainfall station maps, Real-time Rainfall and Cumulative Rainfall.jpg
+INPUT .\fig\Numerical Analysis\Rainfall station maps, Real-time Rainfall and Cumulative Rainfall.jpg
+INPUT .\fig\Numerical Analysis\Rainfall station maps, Real-time Rainfall and Cumulative Rainfall.jpg
+INPUT .\fig\Numerical Analysis\隨機數製作高斯分布理論值.png
+INPUT .\fig\Numerical Analysis\隨機數製作高斯分布理論值.png
+INPUT .\fig\Numerical Analysis\隨機數製作高斯分布理論值.png
+INPUT .\fig\Mechanical Design\Mechanical Design Flow Chart.jpg
+INPUT .\fig\Mechanical Design\Mechanical Design Flow Chart.jpg
+INPUT .\fig\Mechanical Design\Mechanical Design Flow Chart.jpg
+INPUT .\fig\Mechanical Design\齒輪系示意圖.png
+INPUT .\fig\Mechanical Design\齒輪系示意圖.png
+INPUT .\fig\Mechanical Design\齒輪系示意圖.png
+INPUT .\fig\Mechanical Design\齒輪系繪製.png
+INPUT .\fig\Mechanical Design\齒輪系繪製.png
+INPUT .\fig\Mechanical Design\齒輪系繪製.png
+INPUT .\fig\Mechanical Design\gear motion.jpg
+INPUT .\fig\Mechanical Design\gear motion.jpg
+INPUT .\fig\Mechanical Design\gear motion.jpg
+INPUT .\fig\Mechanical Design\Solidworks應力位移分析.png
+INPUT .\fig\Mechanical Design\Solidworks應力位移分析.png
+INPUT .\fig\Mechanical Design\Solidworks應力位移分析.png
+INPUT .\fig\Mechanical Design\Ansys應力位移分析.png
+INPUT .\fig\Mechanical Design\Ansys應力位移分析.png
+INPUT .\fig\Mechanical Design\Ansys應力位移分析.png
+INPUT .\fig\Mechanical Design\簡化機構分析.png
+INPUT .\fig\Mechanical Design\簡化機構分析.png
+INPUT .\fig\Mechanical Design\簡化機構分析.png
+INPUT .\fig\Mechanical Design\V8引擎.png
+INPUT .\fig\Mechanical Design\V8引擎.png
+INPUT .\fig\Mechanical Design\V8引擎.png
+INPUT .\fig\Mechanical Design\拖車栓掛.png
+INPUT .\fig\Mechanical Design\拖車栓掛.png
+INPUT .\fig\Mechanical Design\拖車栓掛.png
+INPUT .\fig\Mechanical Design\萬象接頭.png
+INPUT .\fig\Mechanical Design\萬象接頭.png
+INPUT .\fig\Mechanical Design\萬象接頭.png
+INPUT .\fig\Mechanical Design\萬象接頭之爆炸圖.png
+INPUT .\fig\Mechanical Design\萬象接頭之爆炸圖.png
+INPUT .\fig\Mechanical Design\萬象接頭之爆炸圖.png
+INPUT .\fig\Mechanical Design\游標卡尺.png
+INPUT .\fig\Mechanical Design\游標卡尺.png
+INPUT .\fig\Mechanical Design\游標卡尺.png
+INPUT Hua (Flora) Liu.aux
